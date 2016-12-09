@@ -1,9 +1,12 @@
 /* Colour changing grid CSS here */
+@media only screen {
 body{
 	background-image: url("http://zellox.com/wp-content/uploads/2016/02/awesome-background-nature-wallpapers.jpg");
-	background-size: 100% 100%;
 	background-repeat: no-repeat;
+	background-position: fixed;
 }
+}
+
 canvas{
 	position:relative;
 	cursor: pointer;
