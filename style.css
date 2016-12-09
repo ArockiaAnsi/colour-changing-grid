@@ -1,0 +1,20 @@
+/* Colour changing grid CSS here */
+body{
+	background-image: url("http://zellox.com/wp-content/uploads/2016/02/awesome-background-nature-wallpapers.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+canvas{
+	position:relative;
+	cursor: pointer;
+	margin-right: -5px;
+	margin-bottom: -5px;
+	margin-top: -5px;
+}
+
+#grid{
+	margin-top: 50px;
+	text-align:center;
+	width:auto;
+	height:auto;
+}
